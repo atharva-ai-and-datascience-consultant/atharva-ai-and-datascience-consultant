@@ -37,12 +37,7 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 
 
 
-### 📊 Experience Highlights
 
-• 9+ years in AI, Machine Learning, and Data Science
-• Built production-grade ML systems handling high-volume data at scale 
-• Delivered GenAI solutions improving efficiency by 40%+
-• Designed scalable architectures across fraud, recommendation, and analytics use-cases
 
 
 <!--
