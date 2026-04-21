@@ -7,6 +7,7 @@
   <a href="https://twitter.com/atharva_ai">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:atharvapathakconsulting@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=atharvapathak&style=flat-square&color=blue" alt=""></p>
@@ -64,9 +65,6 @@ If you're looking to build AI systems, GenAI solutions, or scalable data platfor
 🔗 LinkedIn: [https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/]
 
 🚀 Open to freelance and consulting engagements
-
-📩 Open to freelance & consulting opportunities
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Atharva-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/atharva-pathak-126021119/](https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/))
 
 ---
 
