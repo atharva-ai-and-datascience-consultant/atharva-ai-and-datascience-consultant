@@ -28,11 +28,12 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • Real-time ML Systems & Data Pipelines  
 • End-to-end AI Deployment (MLOps)
 
-### 🧠 Experience Highlights
-• 6+ years of experience in AI, ML, and Data Science  
-• Built real-time fraud detection systems processing millions of transactions  
-• Developed GenAI solutions reducing manual effort by 40%+  
-• Designed scalable ML pipelines and recommendation systems in production
+## 📊 Experience Highlights
+
+- 6+ years in AI, Machine Learning, and Data Science
+- Built production-grade ML systems handling **high-volume data at scale**
+- Delivered GenAI solutions improving efficiency by **40%+**
+- Designed scalable architectures across fraud, recommendation, and analytics use-cases
 
 ### 🛠️ Tech Stack
 Python | SQL | AWS | Spark | Kafka  
@@ -43,28 +44,59 @@ Data Engineering | Real-Time Processing
 ## 🔥 Key Projects
 
 ### 🟢 Fraud Detection System (Fintech)
-• Built real-time fraud detection system analyzing 1M+ transactions/day  
-• Improved detection accuracy by 30% and reduced false positives by 22%  
-• Designed low-latency scoring pipeline (<150ms)
+- Built real-time fraud detection system analyzing **1M+ transactions/day**
+- Improved detection accuracy by **25–35%** and reduced false positives by **20%+**
+- Designed low-latency scoring pipeline (**<150ms response time**)
+- Deployed scalable ML systems handling **100K+ daily predictions**
 
 ---
 
-### 🤖 Generative AI Assistant (RAG)
-• Developed LLM-based system handling 5K+ monthly queries  
-• Reduced manual effort by 40%+ through automation  
-• Built document ingestion and retrieval pipelines
+### 🤖 Generative AI Assistant (RAG-based System)
+- Developed LLM-based system handling **5K+ monthly queries**
+- Reduced manual effort by **40–60%** through intelligent automation
+- Built document ingestion & retrieval pipelines for enterprise data
+- Improved response relevance by **30%** using optimized prompt engineering
+
 
 ---
 
-### 📊 Recommendation System
-• Increased user engagement by 20% and conversions by 15%  
-• Built real-time personalization APIs for 50K+ users  
+### 📊 Recommendation System (Personalization Engine)
+- Built hybrid recommendation system for **50K+ users**
+- Increased engagement by **20%** and conversions by **15–25%**
+- Implemented real-time personalization pipelines
+- Optimized ranking algorithms improving CTR by **18%**
+
+---
+
+### ⚙️ ML Pipeline & MLOps
+- Designed scalable ML pipelines processing **5–10M records/day**
+- Reduced deployment time by **30–40%** using CI/CD automation
+- Implemented model monitoring reducing drift impact by **25%**
+- Enabled real-time predictions and continuous model improvement
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Tools**  
+Python | SQL | Spark | Kafka | AWS  
+
+**AI / ML**  
+Machine Learning | Deep Learning | Feature Engineering | Model Optimization  
+
+**Generative AI**  
+LLMs | Retrieval-Augmented Generation (RAG) | Prompt Engineering | LangChain | AI Agents  
+
+**Systems**  
+Data Engineering | ETL Pipelines | Real-Time Processing | MLOps | Model Deployment  
+
+---
 
 ## 📞 Let's Work Together
 
 If you're looking to build AI systems, GenAI solutions, or scalable data platforms:
 
-📧 atharvapathakb2w@gmail.com  
+📧 atharvapathakconsulting@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/]
 
 🚀 Open to freelance and consulting engagements
@@ -102,14 +134,14 @@ If you're looking to build AI systems, GenAI solutions, or scalable data platfor
 **💬 My inbox is always open, Contact me**
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/atharva-pathak-126021119/" target="_blank">
-   <img align="left" alt="Atharva Pathak | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/" target="_blank">
+   <img align="left" alt="Atharva Pathak | Linkedin" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:atharvapathakb2w@gmail.com" target="_blank">
-    <img align="left" alt="Atharva Pathak | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  <a href="mailto:atharvapathakconsulting@gmail.com" target="_blank">
+    <img align="left" alt="Atharva Pathak | Gmail" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/pathak_atharva" target="_blank">
-    <img align="left" alt="Atharva pathak | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  <a href="https://x.com/atharva_ai" target="_blank">
+    <img align="left" alt="Atharva pathak | Twitter" width="30px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="https://dev.to/atharvapathak" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Atharva Pathak's DEV Profile" height="30" width="30">
