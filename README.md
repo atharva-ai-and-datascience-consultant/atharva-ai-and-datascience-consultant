@@ -9,13 +9,13 @@
 <a href="https://x.com/atharva_ai"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/" target="_blank">
-   <img align="left" alt="Atharva Pathak | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="center" alt="Atharva Pathak | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:atharvapathakconsulting@gmail.com" target="_blank">
-    <img align="left" alt="Atharva Pathak | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="center" alt="Atharva Pathak | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
   <a href="https://x.com/atharva_ai" target="_blank">
-    <img align="left" alt="Atharva pathak | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="center" alt="Atharva pathak | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
 
 </p>
