@@ -56,6 +56,15 @@ Data Engineering | Real-Time Processing
 • Increased user engagement by 20% and conversions by 15%  
 • Built real-time personalization APIs for 50K+ users  
 
+## 📞 Let's Work Together
+
+If you're looking to build AI systems, GenAI solutions, or scalable data platforms:
+
+📧 atharvapathakb2w@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/]
+
+🚀 Open to freelance and consulting engagements
+
 📩 Open to freelance & consulting opportunities
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Atharva-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/atharva-pathak-126021119/](https://www.linkedin.com/in/freelanceaidatascienceconsultantatharvapathak/))
 
