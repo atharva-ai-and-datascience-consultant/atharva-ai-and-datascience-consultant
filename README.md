@@ -29,17 +29,18 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • End-to-end AI Deployment (MLOps)
 
 ## 📊 Experience Highlights
+• 6+ years in AI, Machine Learning, and Data Science
+• Built production-grade ML systems handling **high-volume data at scale**
+• Delivered GenAI solutions improving efficiency by **40%+**
+• Designed scalable architectures across fraud, recommendation, and analytics use-cases
 
-- 6+ years in AI, Machine Learning, and Data Science
-- Built production-grade ML systems handling **high-volume data at scale**
-- Delivered GenAI solutions improving efficiency by **40%+**
-- Designed scalable architectures across fraud, recommendation, and analytics use-cases
-
+<!--
 ### 🛠️ Tech Stack
-Python | SQL | AWS | Spark | Kafka  
-Machine Learning | Deep Learning | MLOps  
-Generative AI | LLMs | RAG | LangChain  
-Data Engineering | Real-Time Processing
+• Python | SQL | AWS | Spark | Kafka  
+• Machine Learning | Deep Learning | MLOps  
+• Generative AI | LLMs | RAG | LangChain  
+• Data Engineering | Real-Time Processing
+-->
 
 ## 🔥 Key Projects
 
