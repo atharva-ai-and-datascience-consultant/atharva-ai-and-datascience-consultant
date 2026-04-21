@@ -46,6 +46,13 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • Delivered GenAI solutions improving efficiency by **40%+**
 • Designed scalable architectures across fraud, recommendation, and analytics use-cases
 
+### 🧠 Experience Highlights
+
+• 6+ years of experience in AI, ML, and Data Science  
+• Built real-time fraud detection systems processing millions of transactions  
+• Developed GenAI solutions reducing manual effort by 40%+  
+• Designed scalable ML pipelines and recommendation systems in production
+
 
 <!--
 ### 🛠️ Tech Stack
