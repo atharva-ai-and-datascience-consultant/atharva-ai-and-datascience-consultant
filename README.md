@@ -28,6 +28,13 @@ I am a Freelance AI & Data Science Consultant <img src="https://media.giphy.com/
 • Real-time ML Systems & Data Pipelines  
 • End-to-end AI Deployment (MLOps)
 
+### 📊 Experience Highlights
+
+• 6+ years of experience in AI, ML, and Data Science  
+• Built real-time fraud detection systems processing millions of transactions  
+• Developed GenAI solutions reducing manual effort by 40%+  
+• Designed scalable ML pipelines and recommendation systems in production
+
 
 
 ### 📊 Experience Highlights
